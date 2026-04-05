@@ -8,3 +8,4 @@ logs/*.log
 .idea/
 .vscode/
 .DS_Store
+sample_data/
